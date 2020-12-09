@@ -10,6 +10,6 @@
 
 本人负责：主控程序实现(平台为Visual Studio C++和Arduino SDK)，代码调试和视频拍摄。
 
-主要技术：C++/MATLAB/OpenCV库/Arduino单片机/SolidWorks/3D打印
+主要技术：C++/MATLAB/OpenCV库/Qt/Arduino单片机/SolidWorks/3D打印
 
 项目主页：http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2016_spring-summer/Projects/index3.html
