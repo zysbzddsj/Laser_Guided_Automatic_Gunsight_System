@@ -1,4 +1,4 @@
-# Laser_guided_automatic_gunsight_system
+# Laser_Guided_Automatic_Gunsight_System
 
 项目名称：激光引导自动炮瞄系统
 
