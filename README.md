@@ -12,4 +12,4 @@
 
 主要技术：C++/MATLAB/OpenCV库/Qt/Arduino单片机/SolidWorks/3D打印
 
-项目主页：http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2016_spring-summer/Projects/index3.html
+项目主页：http://staff.ustc.edu.cn/~lgliu/Courses/ComputerGraphics_2016_spring-summer/Projects/index3.html （包含视频，代码和总结报告）
